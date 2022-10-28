@@ -11,10 +11,9 @@ If the player falls to 0 health, they die and must restart the game.
 If the player manages to reach and defeat the boss, they win and have the option to start a new game plus where enemies and rewards continue to scale.
 
 My Contribution -
-I created the initial concept for Caledonia and did a lot of the initial planning. I learned JavaFX from scratch for this project, and built the entire GUI and frontend.
-I learned and implemented the MVVM pattern, which defined the frontend architecture.
-I worked on some of the backend code, integrating things neccessary for frontend functionality into the basic game objects and logic, as well as working with my partner to develop how the backend should be structured.
-I used photoshop to create the game assets out of freely available asset packs, learning how to work with tilesets and how to create gifs.
+I created most of the backend of this project, building a system that handles the card and deck generation, the enemy creation, player creation, node creation, reward structures, and more.
+I helped in planning by bringing new ideas to the table, as this was an original idea by my group partner, Nathaniel.
+I helped in testing and bug fixing.
 
 Technology -
 This app is built entirely using Java and the JavaFX framework.
